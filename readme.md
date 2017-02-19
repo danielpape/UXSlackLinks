@@ -1,1 +1,1 @@
-React Timer App
+Links shared in UXDA Slack group
