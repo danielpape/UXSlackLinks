@@ -1,0 +1,47 @@
+body {
+  font-size: 14px;
+  font-family: $Roboto;
+}
+
+p {
+  margin-bottom: 0.1rem;
+  a {
+    color: rgba(0,0,0,0.54);
+
+    em{
+      color: rgba(0,0,0,0.25);
+    }
+  }
+
+  a:hover {
+    color: #212121;
+    text-decoration: none;
+    border-bottom: 1px solid #ec1232;
+  }
+  a:visited {
+    color: rgba(0,0,0,0.35);
+    text-decoration: none;
+  }
+  a:active {
+    color: rgba(0,0,0,0.54);
+    text-decoration: none;
+  }
+}
+
+h3 {
+  font-size: 14px;
+  color: rgba(0,0,0,0.87);
+  font-weight: 500;
+}
+
+.row{
+  margin-bottom: 1rem;
+}
+
+.container {
+  margin-top: 32px;
+}
+
+.col-sm-4 {
+  margin-bottom: 1rem;
+}
